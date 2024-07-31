@@ -1,0 +1,11 @@
+[2024-07-30 17:02:42] This is codeql query run --database=/Users/sdas/codeqldb/sample /Users/sdas/codeql/codeql-work/codeql-custom-queries-java/sample.ql
+[2024-07-30 17:02:42] Log file was started late.
+[2024-07-30 17:02:42] Calling plumbing command: codeql resolve ram --dataset=/Users/sdas/codeqldb/sample/db-java --format=json
+[2024-07-30 17:02:42] [PROGRESS] resolve ram> Stringpool size measured as 2523546
+[2024-07-30 17:02:42] Plumbing command codeql resolve ram completed:
+                      [
+                        "-J-Xmx6977M",
+                        "--off-heap-ram=8683"
+                      ]
+[2024-07-30 17:02:42] Chaining via /var/folders/lg/y9mg6rl52477vk39tl2374cm0000gn/T/codeql.XXXXXXXX.Z248yiE7yv to plumbing: execute queries -J-Xmx6977M --off-heap-ram=8683 --verbosity=progress --logdir=/Users/sdas/codeqldb/sample/log --evaluator-log-level=5 --warnings=show --qlconfig-file=/Users/sdas/codeql/codeql-work/codeql-custom-queries-java/qlconfig.yml -- /Users/sdas/codeqldb/sample/db-java path:/Users/sdas/codeql/codeql-work/codeql-custom-queries-java/sample.ql
+[2024-07-30 17:02:42] Exiting with code 70

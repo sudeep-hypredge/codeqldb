@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: /Users/sdas/codeql/sample/application
+baselineLinesOfCode: 32
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+creationMetadata:
+  cliVersion: 2.18.1
+  creationTime: 2024-07-31T05:12:42.012830Z
+finalised: true
